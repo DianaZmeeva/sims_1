@@ -1,0 +1,10 @@
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\bin\Debug\sims_1_farm.exe.config
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\bin\Debug\sims_1_farm.exe
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\bin\Debug\sims_1_farm.pdb
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\obj\Debug\sims_1_farm.csprojResolveAssemblyReference.cache
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\obj\Debug\sims_1_farm.Form1.resources
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\obj\Debug\sims_1_farm.Properties.Resources.resources
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\obj\Debug\sims_1_farm.csproj.GenerateResource.Cache
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\obj\Debug\sims_1_farm.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\obj\Debug\sims_1_farm.exe
+C:\Users\111\source\repos\sims_1_farm\sims_1_farm\obj\Debug\sims_1_farm.pdb
